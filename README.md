@@ -1,5 +1,7 @@
 # Battery Saving and Performance Optimization Tool
 
+![Battery Saving and Performance Optimization Tool](https://github.com/thelordalex/AlexDark-performance/blob/main/AlexDark-performance.jpg)
+
 ## Overview
 
 This tool consists of two shell scripts designed to optimize and revert system settings on Android devices for better battery life, reduced heat, and improved internet speed.
